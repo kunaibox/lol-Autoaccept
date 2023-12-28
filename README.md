@@ -2,25 +2,22 @@
 
 
   <img src="https://github.com/kunaibox/lol-Autoaccept/assets/85061793/8d4c78f8-f583-49ce-ba84-d9f4ab3d377c" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>League Auto-Accept</h1>
   
   <p>
-    An awesome README template for your projects! 
+    A simple python project that automatically accepts your games. 
   </p>
   
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <a href="https://github.com/kunaibox/lol-Autoaccept/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+  <a href="https://github.com/kunaibox/lol-Autoaccept/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+  <a href=https://github.com/kunaibox/lol-Autoaccept/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
