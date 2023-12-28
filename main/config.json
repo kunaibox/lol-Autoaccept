@@ -1,0 +1,8 @@
+{
+    "gui": true,
+    "hotkey": {
+      "enabled": true,
+      "button": "F12"
+    }
+  }
+  
