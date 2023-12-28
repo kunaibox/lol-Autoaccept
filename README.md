@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://github.com/kunaibox/lol-Autoaccept/assets/85061793/8d4c78f8-f583-49ce-ba84-d9f4ab3d377c" alt="logo" width="200" height="auto" />
+  <img src="https://www.codeproject.com/KB/Articles/5373396/7c859eb2-f87a-4f73-8b9f-6404b1c1e1d5.Png" alt="logo" width="200" height="auto" />
   <h1>League Auto-Accept</h1>
   
   <p>
