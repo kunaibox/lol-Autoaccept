@@ -10,7 +10,6 @@
   
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
   <span> · </span>
     <a href="https://github.com/kunaibox/lol-Autoaccept/issues/">Report Bug</a>
   <span> · </span>
