@@ -66,4 +66,4 @@ Project Link: [https://github.com/kunaibox/lol-Autoaccept](https://github.com/ku
 <!-- Acknowledgments -->
 ## Acknowledgements
 
- - [Accept image taken from]([https://shields.io/](https://github.com/matiasperz)https://github.com/matiasperz)
+ - [Accept image taken from](https://github.com/matiasperz)
