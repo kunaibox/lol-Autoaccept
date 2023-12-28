@@ -1,7 +1,8 @@
 <div align="center">
 
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="![image](https://github.com/kunaibox/lol-Autoaccept/assets/85061793/8d4c78f8-f583-49ce-ba84-d9f4ab3d377c)
+" alt="logo" width="200" height="auto" />
   <h1>Awesome Readme Template</h1>
   
   <p>
