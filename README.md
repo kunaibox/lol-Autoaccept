@@ -10,7 +10,6 @@
   
    
 <h4>
-  <span> · </span>
     <a href="https://github.com/kunaibox/lol-Autoaccept/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/kunaibox/lol-Autoaccept/issues/">Request Feature</a>
