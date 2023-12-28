@@ -8,25 +8,6 @@
     A simple python project that automatically accepts your games. 
   </p>
   
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/kunaibox/lol-Autoaccept/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="https://github.com/kunaibox/lol-Autoaccept/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href=https://github.com/kunaibox/lol-Autoaccept/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
-</p>
    
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
