@@ -23,9 +23,6 @@
 - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-  * [Running Tests](#running-tests)
-  * [Run Locally](#run-locally)
-  * [Deployment](#deployment)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -43,74 +40,28 @@
 <!-- Prerequisites -->
 ### Prerequisites
 
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
+This project uses Python 3.10.4
 
 <!-- Installation -->
 ### Installation
 
-Install my-project with npm
+Git clone the repo and head into the the main folder to install the requirements.
 
 ```bash
-  yarn install my-project
-  cd my-project
+  pip install -r requirements.txt
 ```
-   
-<!-- Running Tests -->
-### Running Tests
-
-To run tests, run the following command
-
+Either compile it using pyinstaller, py2exe or any prefered compiler or run it with:
 ```bash
-  yarn test test
+  python main.py
 ```
-
-<!-- Run Locally -->
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Deployment -->
-### Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
-
 
 <!-- Usage -->
 ## Usage
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+Its pretty easy to use, on launch it will load the config and a gui, you can toggle the gui with the button or with the default key(f12), it will toggle off after a game is accepted.
 
+![image](https://github.com/kunaibox/lol-Autoaccept/assets/85061793/b929706f-4a2b-4780-a61f-73878646c4f0)
+![image](https://github.com/kunaibox/lol-Autoaccept/assets/85061793/0db26a94-0e4a-444d-8a94-02b6dbb427f9)
 
 ```javascript
 import Component from 'my-project'
