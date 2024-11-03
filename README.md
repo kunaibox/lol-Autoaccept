@@ -3,6 +3,7 @@
 
   <img src="https://www.codeproject.com/KB/Articles/5373396/7c859eb2-f87a-4f73-8b9f-6404b1c1e1d5.Png" alt="logo" width="200" height="auto" />
   <h1>League Auto-Accept</h1>
+  <h2>This project is deprecated but it will work until league has new launcher or changes accept button</h2>
   
   <p>
     A simple python project that automatically accepts your games. 
